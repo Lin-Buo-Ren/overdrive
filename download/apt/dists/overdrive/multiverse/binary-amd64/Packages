@@ -1,0 +1,23 @@
+Package: overdrive
+Essential: no
+Priority: extra
+Section: misc
+Installed-Size: 168
+Maintainer: Raphael Cohn <raphael.cohn@stormmq.com>
+Architecture: all
+Source: overdrive
+Version: 2017.0618.0534-1
+Depends: dash, coreutils
+Filename: pool/multiverse/o/overdrive/overdrive_2017.0618.0534-1_all.deb
+Size: 27984
+MD5sum: f8474b87a495dbcf0b850adf365bf2b5
+SHA1: e29891c609dbfaf817942a6e342a354abcf56070
+SHA256: 6d0afa47f2c0716c6e0e79136665d3ace6e7ae81b9ed73952655374bc5cf1ae4
+Description: overdrive is a tutorial application
+     The first line is used as a summary by RPM.
+Homepage: https://github.com/Lin-Buo-Ren/overdrive
+Bugs: https://github.com/Lin-Buo-Ren/overdrive/issues
+Build-Essential: no
+Origin: Lin-Buo-Ren
+Supported: 9m
+
